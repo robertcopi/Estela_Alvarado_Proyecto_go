@@ -1,0 +1,3 @@
+module conversiones
+
+go 1.26.4
